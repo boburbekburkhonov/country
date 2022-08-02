@@ -1,0 +1,21 @@
+.header {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.heading {
+  margin: 0;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 33px;
+  color: #111517;
+}
+
+.header-desc {
+  cursor: pointer;
+  margin: 0;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #111517;
+}
