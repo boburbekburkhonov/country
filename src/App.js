@@ -8,7 +8,6 @@ function App() {
     <>
       <Header />
       <main className="main">
-      <Search />
       <Country/>
       </main>
     </>
