@@ -1,0 +1,16 @@
+.country-item-one {
+  max-width: 600px;
+  width: 100%;
+}
+
+.country-desc-one {
+  font-size: 35px;
+}
+
+.active {
+  font-size: 28px;
+}
+
+.font {
+  font-weight: 500;
+}

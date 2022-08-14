@@ -18,6 +18,8 @@
   font-size: 18px;
   line-height: 26px;
   cursor: pointer;
+  color: #181818;
+  text-decoration: none;
 }
 
 .desc {
@@ -34,4 +36,8 @@
   font-size: 14px;
   line-height: 16px;
   color: #111517;
+}
+
+.loader {
+  padding-top: 200px;
 }
